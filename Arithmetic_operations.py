@@ -1,0 +1,12 @@
+a=int(input())
+b=int(input())
+Sum=a+b
+print("Sum:{}".format(Sum))
+Difference=a-b
+print("Difference:{}".format(Difference))
+Product=a*b
+print("Product:{}".format(Product))
+Quotient=a//b
+print("Quotient:{}".format(Quotient))
+Remainder=a%b
+print("Remainder:{}".format(Remainder))
